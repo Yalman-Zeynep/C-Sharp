@@ -1,9 +1,21 @@
-﻿
-Console.WriteLine("Hello C#"); //bu fonksiyon ekrana text yazdirmak icin kullanilir.
-Console.Beep();
+﻿  /*
+     C# dunyanin en populer kodlama dillerinden biridir. Kullanim alani genistir.
+      Bunlara internet sitesi, oyun, program örnek verilebilir.
+
+     .NET:
+    c# kodlarının derlenip calistirildigi arac kiti
+    .net sayesinde kodumuz bilgisayarda telefonda oyun konsolunda web sunucusunda çalistirabiliyoruz
+
+    IDE(Yerlesik gelistirme kiti)
+    kod yazmamiz kolaylasir
+    kodu calistirmamizi saglar(örnek: visual studio code)
+    */
+    
+    Console.WriteLine("Hello C#"); //bu fonksiyon ekrana text yazdirmak icin kullanilir.
+    Console.Beep();
 
 
-  /*  Degisken nedir ne icin kullanilir
+    /*  Degisken nedir ne icin kullanilir
     # programlama dilinde değişkenler, programın çalışma sürecinde verileri depolamak 
     için kullanılan bellek alanlarıdır. Yani, bir değişken, içine bir değer 
     atayabileceğiniz ve bu değeri daha sonra kullanabileceğiniz bir hafıza alanıdır.
